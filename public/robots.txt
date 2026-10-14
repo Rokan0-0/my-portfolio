@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rokan-portfolio.vercel.app/sitemap.xml
